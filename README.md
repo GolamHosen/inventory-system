@@ -3,7 +3,7 @@
 React + Vite application that showcases a modern inventory workflow: role-based access, product CRUD, stock movement logging, barcode scanning, alerts, charts, and PDF invoice export.
 
 ## Tech Stack
-- React 18 (Vite) + TypeScript
+- React 19 (Vite) + TypeScript
 - Redux Toolkit + React Redux
 - Material UI + Tailwind CSS
 - Recharts, React Hot Toast
