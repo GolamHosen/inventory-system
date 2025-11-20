@@ -10,7 +10,7 @@ export const demoUsers = [
   },
   {
     id: 'u-staff',
-    name: 'Sam Staff',
+    name: 'Raihan Staff',
     username: 'staff',
     password: 'staff123',
     role: 'staff',
